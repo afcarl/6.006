@@ -1,0 +1,38 @@
+Sorting array: [9, 8, 7, 6, 5, 4]
+Iteration 1 ...
+Shifting element at pos. 0 to pos. 1
+Placing element at pos. 1  in pos. 0
+Array after iteration 1 : [8, 9, 7, 6, 5, 4]
+
+Iteration 2 ...
+Shifting element at pos. 1 to pos. 2
+Shifting element at pos. 0 to pos. 1
+Placing element at pos. 2  in pos. 0
+Array after iteration 2 : [7, 8, 9, 6, 5, 4]
+
+Iteration 3 ...
+Shifting element at pos. 2 to pos. 3
+Shifting element at pos. 1 to pos. 2
+Shifting element at pos. 0 to pos. 1
+Placing element at pos. 3  in pos. 0
+Array after iteration 3 : [6, 7, 8, 9, 5, 4]
+
+Iteration 4 ...
+Shifting element at pos. 3 to pos. 4
+Shifting element at pos. 2 to pos. 3
+Shifting element at pos. 1 to pos. 2
+Shifting element at pos. 0 to pos. 1
+Placing element at pos. 4  in pos. 0
+Array after iteration 4 : [5, 6, 7, 8, 9, 4]
+
+Iteration 5 ...
+Shifting element at pos. 4 to pos. 5
+Shifting element at pos. 3 to pos. 4
+Shifting element at pos. 2 to pos. 3
+Shifting element at pos. 1 to pos. 2
+Shifting element at pos. 0 to pos. 1
+Placing element at pos. 5  in pos. 0
+Array after iteration 5 : [4, 5, 6, 7, 8, 9]
+
+Sorted array: [4, 5, 6, 7, 8, 9]
+
